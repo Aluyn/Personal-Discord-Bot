@@ -1,0 +1,22 @@
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\PoE Item Mentions.exe.config
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\obj\Debug\PoE Item Mentions.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\PoE Item Mentions.exe
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\PoE Item Mentions.pdb
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Discord.Net.Commands.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Discord.Net.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.Concurrent.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\RestSharp.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\WebSocket4Net.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Newtonsoft.Json.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.Concurrent.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Debug\RestSharp.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\obj\Debug\PoE Item Mentions.exe
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\obj\Debug\PoE Item Mentions.pdb
+D:\Documents\GitHub\Personal-Discord-Bot\PoE Item Mentions\bin\Debug\PoE Item Mentions.exe.config
+D:\Documents\GitHub\Personal-Discord-Bot\PoE Item Mentions\obj\Debug\PoE Item Mentions.exe
+D:\Documents\GitHub\Personal-Discord-Bot\PoE Item Mentions\obj\Debug\PoE Item Mentions.pdb

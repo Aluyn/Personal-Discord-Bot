@@ -1,0 +1,18 @@
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\PoE Item Mentions.exe.config
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\PoE Item Mentions.exe
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\PoE Item Mentions.pdb
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Discord.Net.Commands.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Discord.Net.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Newtonsoft.Json.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.Concurrent.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.Enlightenment.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\RestSharp.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\WebSocket4Net.dll
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Newtonsoft.Json.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.Concurrent.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\Nito.AsyncEx.Enlightenment.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\bin\Release\RestSharp.xml
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\obj\Release\PoE Item Mentions.exe
+d:\documents\visual studio 2015\Projects\PoE Item Mentions\PoE Item Mentions\obj\Release\PoE Item Mentions.pdb
